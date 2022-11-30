@@ -3,10 +3,9 @@
 
 - 🌱 I’m currently learning **Software and game development**
 
-- 📫 How to reach me **milan.hommet@protonmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - 📫 How to reach me **hommetmilan@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
