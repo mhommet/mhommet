@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Milan</h1>
-<h3 align="center">A software development student based in France</h3>
 
-🌱 I’m currently learning **Software and game development**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+🌱 I’m currently learning **Software and game development**
 📫 How to reach me : hommetmilan@gmail.com
 </p>
 
