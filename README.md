@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Milan</h1>
 
 <p align="left">
-🌱 I’m currently learning **Software and game development**
+🌱 I’m currently learning Software and game development
+</p>
+
+<p align="left">
 📫 How to reach me : hommetmilan@gmail.com
 </p>
 
