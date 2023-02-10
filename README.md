@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milan</h1>
 <h3 align="center">A software and mobile dev student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milan144" alt="milan144" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter, Kotlin and swift**
 
 - 📫 How to reach me **hommetmilan@gmail.com**
