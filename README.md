@@ -1,10 +1,6 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  <h1>👋 Hi, I'm Milan, a devops student 🚀</h1>
 </div>  
-  
-
-### <div align="center">I'm Milan, a devops student 🚀</div>  
-  
 
 <div align="center">🌱 I’m currently learning Ansible and Kubernetes</div>  
   
@@ -67,6 +63,3 @@
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
