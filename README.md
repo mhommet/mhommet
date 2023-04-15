@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Milan</h1>
 
-⚙ Im a devops student
+<h2 align="center">⚙ Im a devops student</h2>
 
 # 🌐 Socials
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nokcsv) 
