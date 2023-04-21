@@ -9,7 +9,7 @@ I've been learning to code for 3 years and I'm interested the most in backend / 
 * 🌍  I'm based in France
 * 🖥️  See my portfolio at [My Portfolio](http://milan.n0k.fr)
 * ✉️  You can contact me at [milan.hommet@protonmail.com](mailto:milan.hommet@protonmail.com)
-* 🧠  I'm learning Rust and Go
+* 🧠  I'm currently learning GO and Rust
 
 ## My Skills
   
