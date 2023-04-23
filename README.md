@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Milan
 =============================================================================================================================
 
-Software developer student
+Backend developer student
 ------------------
 
 I've been learning to code for 3 years and I'm interested the most in backend / software development.
