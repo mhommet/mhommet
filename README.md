@@ -44,4 +44,8 @@ I've been learning to code for 3 years and I'm interested the most in backend / 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milan144&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![](https://visitcount.itsvg.in/api?id=Milan144&icon=0&color=12)](https://visitcount.itsvg.in)
