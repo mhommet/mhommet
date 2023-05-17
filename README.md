@@ -7,7 +7,7 @@ Backend developer
 I've been learning to code for 3 years and I'm interested the most in backend / software development.
 
 * 🌍  I'm based in France
-* ✉️  You can contact me at [milan.hommet@protonmail.com](mailto:milan.hommet@protonmail.com)
+* ✉️  You can contact me at [mhommet@protonmail.ch](mailto:mhommet@protonmail.ch)
 * ⚙️ I want to become a software engineer
 
 # 💻 Tech Stack:
