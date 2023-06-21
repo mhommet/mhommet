@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - ✉️  You can contact me at [hommetmilan@gmail.com](mailto:hommetmilan@gmail.com)  
   
 
-- 🚀  I want to become a software engineer  
+- 🚀  I'm a fullstack dev student
   
 
 <br/>  
