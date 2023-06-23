@@ -1,13 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Milan
 =============================================================================================================================
 
-- 🌍  I'm based in France   
+🚀  I'm a fullstack dev student
+
+🌍  I'm currently based in France   
+  
+✉️  You can contact me at [hommetmilan@gmail.com](mailto:hommetmilan@gmail.com)  
   
 
-- ✉️  You can contact me at [hommetmilan@gmail.com](mailto:hommetmilan@gmail.com)  
-  
 
-- 🚀  I'm a fullstack dev student
   
 
 <br/>  
