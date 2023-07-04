@@ -6,27 +6,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🌍  I'm currently based in France   
   
 ✉️  You can contact me at [hommetmilan@gmail.com](mailto:hommetmilan@gmail.com)  
-  
-
-
-  
-
-<br/>  
-
-<div align="center">
-<a href="https://github.com/Milan144" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/n0k4__" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/Milan144" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
 
 
 ## 💻 Tech Stack: 
