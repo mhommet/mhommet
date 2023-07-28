@@ -5,7 +5,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 🌍  I'm currently based in France   
   
-✉️  You can contact me at [hommetmilan@gmail.com](mailto:hommetmilan@gmail.com)  
+✉️  You can contact me at [milan@hommet.ch](mailto:milan@hommet.ch)  
+
+
 
 
 ## 💻 Tech Stack: 
