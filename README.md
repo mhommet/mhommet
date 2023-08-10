@@ -7,6 +7,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   
 ✉️  You can contact me at [milan@hommet.ch](mailto:milan@hommet.ch)  
 
+⌨️  I'm using Neovim with a custom NvChad config as my main IDE
+
 
 
 
