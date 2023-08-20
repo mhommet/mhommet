@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Milan
 =============================================================================================================================
 
-🚀  I'm a dev student
+🚀  I'm a dev student,
 
 🌍  I'm currently based in France   
   
-✉️  You can contact me at [milan@hommet.ch](mailto:milan.hommet@protonmail.com)  
+✉️  You can contact me at [milan.hommet@protonmail.com](mailto:milan.hommet@protonmail.com)  
 
-⌨️  I'm using NeoVim with a custom config of NvChad
+⌨️  I'm using Doom Emacs as my main IDE and for notes taking. 
 
 
 
