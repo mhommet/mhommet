@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Milan
 =============================================================================================================================
 
-🚀  I'm a dev student.
+🚀  I'm a dev student
 
-🌍  I'm currently based in France.   
+🌍  I'm currently based in France  
 
-📚  I'm currently learning Rust, Go and Python.
+📚  I'm currently learning Rust, Go and Python
   
-✉️   You can contact me at [milan.hommet@protonmail.com](mailto:milan.hommet@protonmail.com).  
+✉️   You can contact me at [milan.hommet@protonmail.com](mailto:milan.hommet@protonmail.com)
 
-⌨️   I'm using Doom Emacs as my main IDE and for notes taking. 
+⌨️   I'm using Doom Emacs as my main IDE and for notes taking
 
 
 
