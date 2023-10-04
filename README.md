@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">🚀  I'm a dev student<br>🌍  I'm currently based in France  <br>📚  I'm learning Rust, Go and Python</p>
+<p align="center">🚀  I'm a dev student<br>🌍  I'm currently based in France  <br>📚  I'm learning C and Python</p>
 
 ###
 <p align="center">
