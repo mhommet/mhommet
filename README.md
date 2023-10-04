@@ -6,15 +6,11 @@
 
 ###
 
-<p align="center">🚀  I'm a dev student<br>🌍  I'm currently based in France  <br>📚  I'm learning Rust, Go and Python<br>⌨️   I'm using Doom Emacs as my main IDE and for notes taking</p>
+<p align="center">🚀  I'm a dev student<br>🌍  I'm currently based in France  <br>📚  I'm learning Rust, Go and Python</p>
 
 ###
 <p align="center">
   
-</p>
-
-<p align="center">
-  <img src="https://github.com/Milan144/Milan144/assets/75842903/96333f9b-bdc6-43b5-9e02-6740a732832f" alt="animated" />
 </p>
 
 
