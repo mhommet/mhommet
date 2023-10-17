@@ -1,19 +1,12 @@
 <h1 align="center">Hi👋, I'm Milan</h1>
 
-###
-
 <h3 align="center">👩‍💻  About Me</h3>
-
-###
 
 <p align="center">I'm a dev student from France<br><br>- 🚀 I would like to become a DevSecOps<br>- 📚 I'm currently learning cybersecurity and devops</p>
 
 <p align="center">
   
 </p>
-
-
-
 
 <h3 align="center">🚀 Dev</h3>
 
@@ -54,12 +47,7 @@
   <img width="12" />
 </div>
 
-
-###
-
 <h3 align="center">⌨️   My most used languages :</h3>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milan144&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="250" alt="languages graph"  />
