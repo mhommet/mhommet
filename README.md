@@ -7,7 +7,7 @@
 ###
 
 <p align="center">I'm a dev student from France<br><br>- 🚀 I would like to become a DevSecOps<br>- 📚 I'm currently learning cybersecurity and devops</p>
-###
+
 <p align="center">
   
 </p>
