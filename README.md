@@ -6,7 +6,7 @@
 
 ###
 
-<p align="center">I'm a dev student from France<br><br>- 🚀 I would like to become a DevOps or DevSecOps<br>- 📚 I'm currently learning cybersecurity and devops</p>
+<p align="center">I'm a dev student from France<br><br>- 🚀 I would like to become a DevOps or a Fullstack Developer<br>- 📚 I'm currently learning cybersecurity and devops</p>
 
 ###
 
