@@ -2,14 +2,6 @@
 
 ###
 
-<h3 align="center">👩‍💻  About Me</h3>
-
-###
-
-<p align="center">I'm a dev student from France<br><br>- 🚀 I would like to become a DevOps or a Fullstack Developer<br>- 📚 I'm currently learning devops</p>
-
-###
-
 <h3 align="center">🛠 Languages and tools</h3>
 
 ###
