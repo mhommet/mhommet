@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋 I'm Milan</h1>
 
-<div align="center">
-  <img src="https://github.com/Milan144/Milan144/assets/75842903/192e4f10-1f41-47b3-9599-b4218eb988c9" />
-</div>
+<p align="center">
+  <img src="https://github.com/Milan144/Milan144/assets/75842903/96333f9b-bdc6-43b5-9e02-6740a732832f" alt="animated" />
+</p>
 
 <h4 align="center">🚀 Languages</h4>
 
