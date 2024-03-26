@@ -61,7 +61,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milan144&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milan144&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="250" alt="languages graph"  />
 </div>
-
 
