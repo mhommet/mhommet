@@ -1,16 +1,8 @@
 <h1 align="center">Hi 👋 I'm Milan</h1>
 
-<p align="center">
-
-🌍  I'm based in France  
-
-📚  I'm currently learning C
-
-✉️   You can contact me at [milan.hommet@protonmail.com](mailto:milan.hommet@protonmail.com)
-
-⌨️   I'm using Doom Emacs as my main IDE and for notes taking
-
-</p>
+<p align="center">🌍  I'm based in France</p>
+<p align="center">📚  I'm currently learning C</p>
+<p align="center">⌨️   I'm using Doom Emacs as my main IDE and for notes taking</p>
 
 <p align="center">
   <img src="https://github.com/Milan144/Milan144/assets/75842903/96333f9b-bdc6-43b5-9e02-6740a732832f" alt="animated" />
