@@ -1,24 +1,20 @@
-<h1 align="center">Hi 👋 I'm Milan</h1>
+<h1 align="left">Hi 👋 I'm Milan</h1>
 
-<p align="center">🌍  I'm based in France</p>
-<p align="center">📚  I'm currently learning C</p>
-<p align="center">⌨️   I'm using Doom Emacs as my main IDE and for notes taking</p>
+<p align="left">🌍  I'm based in France</p>
+<p align="left">📚  I'm currently learning C</p>
+<p align="left">⌨️   I'm using Doom Emacs as my main IDE and for notes taking</p>
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/Milan144/Milan144/assets/75842903/96333f9b-bdc6-43b5-9e02-6740a732832f" alt="animated" />
 </p>
 
 <br>
 
-<h2 align="center">Languages & Tools</h2>
+<h2 align="left">Languages & Tools</h2>
 
-###
+<h3 align="left">Backend ⚙️</h3>
 
-<h3 align="center">Backend ⚙️</h3>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
@@ -32,13 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="50" alt="composer logo"  />
 </div>
 
-###
+<h3 align="left">Frontend ✏️</h3>
 
-<h3 align="center">Frontend ✏️</h3>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
@@ -56,25 +48,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
 </div>
 
-###
+<h3 align="left">Databases 💽</h3>
 
-<h3 align="center">Databases 💽</h3>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
 </div>
 
-###
+<h3 align="left">Tools 🔧</h3>
 
-<h3 align="center">Tools 🔧</h3>
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" height="50" alt="emacs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
@@ -94,14 +78,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50" alt="vim logo"  />
 </div>
 
-###
-
 <br>
 
-<h2 align="center">Stats 📊</h2>
+<h2 align="left">Stats 📊</h2>
 
 
-<div align="center">
+<div align="left">
   
   [![wakatime](https://wakatime.com/badge/user/018b049c-e1c6-45ae-843c-c99e2e09227a.svg)](https://wakatime.com/@018b049c-e1c6-45ae-843c-c99e2e09227a)
   
