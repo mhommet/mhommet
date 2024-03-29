@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋 I'm Milan</h1>
 
 <p align="center">
+
+🌍  I'm based in France  
+
+📚  I'm currently learning C
+
+✉️   You can contact me at [milan.hommet@protonmail.com](mailto:milan.hommet@protonmail.com)
+
+⌨️   I'm using Doom Emacs as my main IDE and for notes taking
+
+</p>
+
+<p align="center">
   <img src="https://github.com/Milan144/Milan144/assets/75842903/96333f9b-bdc6-43b5-9e02-6740a732832f" alt="animated" />
 </p>
 <h2 align="center">Languages & Tools</h2>
@@ -68,6 +80,8 @@
 ###
 
 <div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" height="50" alt="emacs logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
@@ -89,6 +103,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milan144&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=true&order=2" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milan144&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="250" alt="languages graph"  />
 </div>
 
