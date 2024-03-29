@@ -7,6 +7,9 @@
 <p align="center">
   <img src="https://github.com/Milan144/Milan144/assets/75842903/96333f9b-bdc6-43b5-9e02-6740a732832f" alt="animated" />
 </p>
+
+<br>
+
 <h2 align="center">Languages & Tools</h2>
 
 ###
@@ -92,7 +95,10 @@
 </div>
 
 ###
-###
+
+<br>
+
+<h2 align="center">Stats 📊</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milan144&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="250" alt="languages graph"  />
