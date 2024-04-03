@@ -86,6 +86,9 @@
 <div align="left">
   
   [![wakatime](https://wakatime.com/badge/user/018b049c-e1c6-45ae-843c-c99e2e09227a.svg)](https://wakatime.com/@018b049c-e1c6-45ae-843c-c99e2e09227a)
+
+  <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milan144&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="250" alt="languages graph"  />
 </div>
