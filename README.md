@@ -85,19 +85,7 @@
 
 <div align="left">
 
-### Time spent this week
 
-  <!--START_SECTION:waka-->
-
-```txt
-Vue.js       8 hrs 18 mins   ████████▓░░░░░░░░░░░░░░░░   34.51 %
-TypeScript   8 hrs 15 mins   ████████▓░░░░░░░░░░░░░░░░   34.29 %
-PHP          3 hrs 17 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
-Emacs Lisp   1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-JavaScript   43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-```
-
-<!--END_SECTION:waka-->
 
 ### Total time
   
