@@ -85,7 +85,6 @@
 
 <div align="left">
 
-<img align="center" width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=milan144&api_domain=wakatime.com&layout=compact&langs_count=6&border_radius=20&range=last_7_days&hide_border=true&theme=dracula"/>
 
 ### Total time
   
