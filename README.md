@@ -85,8 +85,7 @@
 
 <div align="left">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milan144&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=true&order=2" height="250" alt="languages graph"  />
-</div>
+<img align="center" width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=milan144&api_domain=wakatime.com&layout=compact&langs_count=6&border_radius=20&range=last_7_days&hide_border=true&theme=dracula"/>
 
 ### Total time
   
