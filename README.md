@@ -84,7 +84,7 @@
 
 <div align="left">
 
-<img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=Milan144&api_domain=wakapi.dev&theme=dracula&custom_title=Wakapi%20Week%20Stats&layout=compact"/>
+<img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=Milan144&api_domain=wakapi.dev&theme=dracula&custom_title=Week%20Stats&layout=compact"/>
 
 ### Total time
   
