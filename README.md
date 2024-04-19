@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋 I'm Milan</h1>
 
 <p align="left">🌍  I'm based in France</p>
-<p align="left">📚  I'm currently learning C</p>
+<p align="left">📚  I'm currently learning GO</p>
 
 <p align="left">
   <img src="https://github.com/Milan144/Milan144/assets/75842903/96333f9b-bdc6-43b5-9e02-6740a732832f" alt="animated" />
