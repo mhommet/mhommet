@@ -1,10 +1,5 @@
 <h1 align="left">Hi 👋 I'm Milan</h1>
 
-<p align="left">🌍  I'm based in France</p>
-<p align="left">📚  I'm currently learning GO</p>
-
-<br>
-
 <h2 align="left">Languages & Tools</h2>
 
 <h3 align="left">Backend ⚙️</h3>
@@ -54,8 +49,6 @@
 <h3 align="left">Tools 🔧</h3>
 
 <div align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" height="50" alt="emacs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
