@@ -71,7 +71,6 @@
 <h2 align="left">Stats 📊</h2>
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Milan144&api_domain=wakapi.dev&theme=tokyonight&custom_title=Week%20Stats&layout=compact" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milan144&theme=tokyonight&layout=donut-vertical" /> 
 </p>
 
