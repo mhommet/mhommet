@@ -1,5 +1,9 @@
 <h1 align="left">Hi 👋 I'm Milan</h1>
 
+<p align="left">🌍  I'm based in France</p>
+<p align="left">⚙️  I'm a backend developer</p>
+<p align="left">📚  I'm interested in game development and I'm currently leaning Unity</p>
+
 <h2 align="left">Languages & Tools</h2>
 
 <h3 align="left">Backend ⚙️</h3>
