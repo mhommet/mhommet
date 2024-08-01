@@ -3,7 +3,7 @@
 <p align="left">🌍  I'm based in France</p>
 <p align="left">⚙️  I'm a backend developer</p>
 <p align="left">📚  I'm interested in software and game development and I'm currently leaning Unity</p>
-<p align="left">💻 I mainly use Vscode but I also use Neovim</p>
+<p align="left">💻 I use Neovim and VSCode</p>
 <p align="left">⌨ I use the ZSA Voyager as my main keyboard for coding</p>
 
 <h2 align="left">Languages & Tools</h2>
