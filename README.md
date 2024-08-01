@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋 I'm Milan</h1>
 
-<p align="left">🌍  I'm based in France</p>
-<p align="left">⚙️  I'm a backend developer</p>
-<p align="left">📚  I'm interested in software and game development and I'm currently leaning Unity</p>
-<p align="left">💻 I use Neovim and VSCode</p>
-<p align="left">⌨ I use the ZSA Voyager as my main keyboard for coding</p>
+<p align="left">🌍 Based in France (for now)</p>
+<p align="left">⚙️ Backend developer</p>
+<p align="left">📚 Interested in software and mobile development but also in game dev</p>
+<p align="left">💻 Neovim with Tmux and Alacritty or VSCode</p>
+<p align="left">⌨ The ZSA Voyager is my main keyboard for coding</p>
 
 <h2 align="left">Languages & Tools</h2>
 
