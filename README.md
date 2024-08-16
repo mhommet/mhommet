@@ -79,7 +79,3 @@
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milan144&theme=tokyonight&layout=donut-vertical" /> 
 </p>
-
-### Total time
-  
-  [![wakatime](https://wakatime.com/badge/user/018b049c-e1c6-45ae-843c-c99e2e09227a.svg)](https://wakatime.com/@018b049c-e1c6-45ae-843c-c99e2e09227a)
