@@ -2,8 +2,7 @@
 
 <p align="left">🌍 Based in France (for now)</p>
 <p align="left">⚙️ Backend developer</p>
-<p align="left">📚 Interested in software and mobile development but also in game dev</p>
-<p align="left">💻 JetBrains IDEs / Neovim</p>
+<p align="left">💻 Neovim / Alacritty / Tmux / Fish</p>
 <p align="left">⌨ The ZSA Voyager is my main keyboard for coding</p>
 
 <h2 align="left">Languages & Tools</h2>
