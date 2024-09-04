@@ -2,7 +2,8 @@
 
 <p align="left">🌍 Based in France (for now)</p>
 <p align="left">⚙️ Backend developer</p>
-<p align="left">💻 Neovim / Alacritty / Tmux / Fish</p>
+<p align="left">💻 Neovim for coding with Alacritty, Tmux and Fish shell</p>
+<p align="left">📚 Doom Emacs Org mode for writing</p>
 <p align="left">⌨ The ZSA Voyager is my main keyboard for coding</p>
 
 <h2 align="left">Languages & Tools</h2>
