@@ -1,76 +1,86 @@
-<h1 align="left">Hi 👋 I'm Milan</h1>
+<h2 align="left">Tech stack</h2>
 
-<p align="left">🌍 Based in France (for now)</p>
-<p align="left">⚙️ Backend developer</p>
+<table align="center">
+ <thead>
+  <tr>
+   <th colspan="2"><b>Software Development</b></th>
+   <th colspan="2"><b>Front-end</b></th>
+   <th colspan="1"><b>Mobile</b></th>
+   <th colspan="1"><b>Database</b></th>
+   <th colspan="2"><b>Environments & Tools</b></th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td align="center"><a title="Typescript" href=https://www.typescriptlang.org target="_blank" /><img align="center" width="26px" src="https://api.iconify.design/akar-icons:typescript-fill.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://docs.microsoft.com/dotnet/csharp/tour-of-csharp/ title="C#"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:csharp.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://reactjs.org title="React"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:react.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://vuejs.org/ title="Vue.js"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:vuedotjs.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://flutter.dev/ title="Flutter"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:flutter.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.mongodb.com title="MongoDB"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:mongodb.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://git-scm.com/ title="Git"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:git.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://github.com/ title="GitHub"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:github.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+  </tr>
+  <tr>
+   <td align="center"><a href=https://developer.mozilla.org/en-US/docs/Web/JavaScript title="JavaScript"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:javascript.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://golang.org/ title="Go"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:go.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://nextjs.org/ title="NextJS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:nextdotjs.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a title="SASS" href=https://sass-lang.com target="_blank" /><img align="center" width="26px" src="https://api.iconify.design/simple-icons:sass.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://reactnative.dev/ title="React Native"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:react.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.mysql.com/ title="MySQL"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:mysql.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://about.gitlab.com/ title="GitLab"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:gitlab.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://docker.com/ title="Docker"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:docker.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+  </tr>
+  <tr>
+   <td align="center"><a href=https://www.python.org/ title="Python"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:python.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://symfony.com/ title="Symfony"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:symfony.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://tailwindcss.com/ title="Tailwind CSS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:tailwindcss.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://getbootstrap.com/ title="Bootstrap"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:bootstrap.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"></td>
+   <td align="center"><a href=https://www.postgresql.org/ title="SQL Databases (PostgreSQL)"><img align="center" width="26px" src="https://api.iconify.design/carbon:sql.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.nginx.com/ title="Nginx"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:nginx.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.kernel.org/ title="Linux"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:linux.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+  </tr>
+  <tr>
+   <td align="center"><a href=https://flask.palletsprojects.com/ title="Flask"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:flask.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://www.electronjs.org/ title="Electron"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:electron.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"></td>
+   <td align="center"></td>
+   <td align="center"></td>
+   <td align="center"></td>
+   <td align="center"><a href=https://vim.org/ title="Vim"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:vim.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://github.com/tmux/tmux/wiki title="Tmux"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:tmux.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+  </tr>
+  <tr>
+   <td align="center"><a href=https://www.php.net/ title="PHP"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:php.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://unity.com/ title="Unity"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:unity.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"></td>
+   <td align="center"></td>
+   <td align="center"></td>
+   <td align="center"></td>
+   <td align="center"><a href=https://www.npmjs.com/ title="NPM"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:npm.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"><a href=https://discord.com/developers/docs/intro title="Discord"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:discord.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+  </tr>
+  <tr>
+   <td align="center"></td>
+   <td align="center"></td>
+   <td align="center"></td>
+   <td align="center"></td>
+   <td align="center"></td>
+   <td align="center"></td>
+      <td align="center"><a href=https://mochajs.org/ title="Mocha"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:mocha.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
 
-<h2 align="left">Languages & Tools</h2>
+   <td align="center"><a href=https://www.cypress.io/ title="Cypress"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:cypress.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+  </tr>
+  <tr>
+  </tr>
+ </tbody>
+</table>
 
-<h3 align="left">Backend ⚙️</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50" alt="flask logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart logo" />
-</div>
-
-<h3 align="left">Frontend ✏️</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="50" alt="electron logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="vuejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo" />
-</div>
-
-<h3 align="left">Databases 💽</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" />
-</div>
-
-<h3 align="left">Tools 🔧</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="50" alt="gitlab logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="50" alt="mocha logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="50" alt="nginx logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo" />
-  <img width="12" />
-</div>
 
 <br>
 
-<h2 align="left">Stats 📊</h2>
+<h2 align="left">Stats</h2>
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhommet&theme=dark&layout=donut-vertical" />
