@@ -74,7 +74,7 @@
   </tr>
   <tr>
    <td align="center"><a href=https://www.php.net/ title="PHP"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:php.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
-   <td align="center"><a href=https://unity.com/ title="Unity"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:unity.svg?color=%23E06C75&height=26" target="_blank" /></a></td>
+   <td align="center"></td>
    <td align="center"></td>
    <td align="center"></td>
    <td align="center"></td>
