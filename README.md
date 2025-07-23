@@ -55,9 +55,9 @@
   <tr>
    <td align="center"><a href="https://www.python.org/" title="Python"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:python.svg?color=%2333b1ff" /></a></td>
    <td align="center"><a href="https://www.php.net/" title="PHP"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:php.svg?color=%2333b1ff" /></a></td>
-   <td align="center"></td>
    <td align="center"><a href="https://tailwindcss.com/" title="Tailwind CSS"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:tailwindcss.svg?color=%2333b1ff" /></a></td>
    <td align="center"><a href="https://getbootstrap.com/" title="Bootstrap"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:bootstrap.svg?color=%2333b1ff" /></a></td>
+   <td align="center"></td>
    <td align="center"></td>
    <td align="center"><a href="https://discord.com/developers/docs/intro" title="Discord"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:discord.svg?color=%2333b1ff" /></a></td>
    <td align="center"><a href="https://mochajs.org/" title="Mocha"><img align="center" width="26px" src="https://api.iconify.design/simple-icons:mocha.svg?color=%2333b1ff" /></a></td>
