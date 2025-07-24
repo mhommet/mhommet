@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Milan and I'm a backend developer, from France.</p>
+<p align="left">My name is Milan and I'm a software developer, from France.</p>
 
 ###
 
@@ -103,7 +103,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhommet&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhommet&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
