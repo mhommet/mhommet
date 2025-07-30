@@ -15,7 +15,7 @@
 🧠 I'm currently learning legacy technologies, especially COBOL, DB2, and JCL for mainframe systems.<br>
 📦 I'm also Dockerizing my Symfony apps and automating builds using GitHub Actions.<br>
 🌐 Portfolio: <a href="https://hommet.ch">hommet.ch</a><br>
-🚀 I’m currently looking for a fullstack developer position (PHP/Symfony, JS/React), or an opportunity to be trained in COBOL through a POEI or internal program. Open to relocation and remote work.
+🚀 I’m currently looking for a Python, a fullstack developer position (PHP/Symfony, JS/TS/React), or an opportunity to be trained in COBOL through a POEI or internal program. Open to relocation and remote work.
 </p>
 
 
@@ -30,9 +30,9 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="javascript logo" />
   <img width="12" />
