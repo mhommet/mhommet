@@ -11,12 +11,13 @@
 ###
 
 <p align="left">
-🎓 After studying digital project management and completing an MBA in fullstack development,<br>
-🧠 I'm now focusing on legacy technologies, especially COBOL, DB2 and JCL for mainframe systems.<br>
-📚 I'm also learning Java and deepening my skills in backend and system environments.<br>
-⌨️ ZSA Voyager.<br>
-💻 Neovim + Tmux.<br>
+🎓 After studying digital project management and completing an MBA in fullstack development.<br>
+🧠 I'm currently learning legacy technologies, especially COBOL, DB2, and JCL for mainframe systems.<br>
+📦 I'm also Dockerizing my Symfony apps and automating builds using GitHub Actions.<br>
+🌐 Portfolio: <a href="https://hommet.ch">hommet.ch</a><br>
+🚀 I’m currently looking for a fullstack developer position (PHP/Symfony, JS/React), or an opportunity to be trained in COBOL through a POEI or internal program. Open to relocation and remote work.
 </p>
+
 
 ###
 
