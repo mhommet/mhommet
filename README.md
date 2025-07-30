@@ -29,10 +29,6 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/COBOL-blue?style=for-the-badge" height="28" alt="COBOL badge" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" />
@@ -69,8 +65,6 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/DB2-green?style=for-the-badge" height="28" alt="DB2 badge" />
-  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
@@ -91,15 +85,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo" />
   <img width="12" />
