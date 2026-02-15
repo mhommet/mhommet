@@ -1,8 +1,8 @@
 # 💫 About Me :
 🏗️ **I'm currently working on**  
-- **Focus** - Focus and productivity management app  
-- **Kilo** - Strength training and powerlifting tracker  
-- **SubTracker** - Subscription manager with notifications  
+- **Focus** - League of Legends companion software
+- **Kilo** - Strength training and powerlifting tracker app 
+- **SubTracker** - Subscription manager with notifications 
 
 # 💻 Tech Stack :
 
